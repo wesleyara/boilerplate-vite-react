@@ -1,4 +1,4 @@
-import { Default } from "../components/Default";
+import { Default } from "../../components/Default";
 
 export default function Home() {
   return (
